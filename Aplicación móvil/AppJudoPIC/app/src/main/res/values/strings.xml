@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">JudoPIC</string>
+    <string name="actionUsuario" translatable="false">Usuario</string>
+    <string name="actionPassword" translatable="false">Password</string>
+    <string name="actionMSA" translatable="false">Mantener la sesión activa</string>
+    <string name="actionIS" translatable="false">Iniciar Sesión</string>
+    <string name="actionsalir" translatable="false">Salir</string>
+
+    <string name="actionperfil" translatable="false">PERFIL</string>
+    <string name="actionperfildepo" translatable="false">PERFIL DEL DEPORTISTA</string>
+    <string name="actionCedula" translatable="false">Cédula</string>
+    <string name="actionApellido" translatable="false">Apellido</string>
+    <string name="actionFechaNa" translatable="false">Fecha de Nacimiento</string>
+    <string name="actionTipo" translatable="false">Tipo</string>
+    <string name="actionGrado" translatable="false">Grado</string>
+    <string name="actionCategoria" translatable="false">Categoría</string>
+    <string name="actionSexo" translatable="false">Sexo</string>
+    <string name="actionPeso" translatable="false">Peso</string>
+
+    <string name="actionestadisticas" translatable="false">ESTADISTICAS</string>
+    <string name="actionFechaTest" translatable="false">Seleccione la fecha del test</string>
+    <string name="actionEstadisticos" translatable="false">Estadísticos</string>
+    <string name="actionRF" translatable="false">RESISTENCIA A LA FUERZA</string>
+    <string name="actionFE" translatable="false">FUERZA EXPLOSIVA</string>
+    <string name="actionFM" translatable="false">FUERZA MAXIMA</string>
+    <string name="actionRR" translatable="false">RESISTENCIA A LA RAPIDEZ ESPECIAL</string>
+    <string name="actionVT" translatable="false">VELOCIDAD DE TRASLACION</string>
+    <string name="actionGRF" translatable="false">Gráfica de Resistencia a la Fuerza</string>
+    <string name="actionGFE" translatable="false">Gráfica de Fuerza Explosiva</string>
+    <string name="actionGFM" translatable="false">Gráfica de Fuerza Máxima</string>
+    <string name="actionGRR" translatable="false">Gráfica de Resistencia a la Rapidez Especial</string>
+    <string name="actionGVT" translatable="false">Gráfica de Velocidad de Traslación</string>
+
+    <string name="actionentrenamiento" translatable="false">ENTRENAMIENTO</string>
+    <string name="actionT70" translatable="false">TRABAJO AL 70%</string>
+    <string name="actionT80" translatable="false">TRABAJO AL 80%</string>
+    <string name="actionT90" translatable="false">TRABAJO AL 90%</string>
+    <string name="actionProm" translatable="false">Prom</string>
+    <string name="actionHalon" translatable="false">Halon</string>
+    <string name="actionSentadilla" translatable="false">Sentadilla</string>
+    <string name="actionBarras" translatable="false">Barras</string>
+    <string name="actionParalelas" translatable="false">Paralelas</string>
+    <string name="actionCabos" translatable="false">Cabos</string>
+    <string name="actionPecho" translatable="false">Pecho</string>
+    <string name="actionAbdomen" translatable="false">Abdomen</string>
+    <string name="actionCunclilla" translatable="false">Cunclilla</string>
+    <string name="actionUshi" translatable="false">Ushikomi</string>
+    <string name="actionNage60" translatable="false">Nagekomi 60s</string>
+    <string name="actionNage30" translatable="false">Nagekomi 30s</string>
+    <string name="actionPique30" translatable="false">Pique 30m</string>
+    <string name="actionPique50" translatable="false">Pique 50m</string>
+    <string name="actionPique100" translatable="false">Pique 100m</string>
+    <string name="actionGeneral" translatable="false">General</string>
+    <string name="actionNombre" translatable="false">Nombre</string>
+</resources>
